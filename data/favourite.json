@@ -1,0 +1,18 @@
+[
+    {
+        "city": "Kuala Lumpur",
+        "country": "MY",
+        "temperature": 27.57,
+        "condition": "Clouds",
+        "humidity": 80,
+        "wind_speed": 2.57
+    },
+    {
+        "city": "London",
+        "country": "GB",
+        "temperature": 10.98,
+        "condition": "Clouds",
+        "humidity": 90,
+        "wind_speed": 3.09
+    }
+]
